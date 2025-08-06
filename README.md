@@ -70,7 +70,7 @@ Make sure you have:
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 
 - **Java**
 - **Selenium WebDriver**
